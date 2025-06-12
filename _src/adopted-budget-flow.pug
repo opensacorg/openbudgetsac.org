@@ -1,7 +1,7 @@
 extends partials/layout
 
 prepend pageTitle
-  - var title = "Cash Flow: 2014 through 2022"
+  - var title = "Cash Flow"
 
 block bodyClass
   - var slug = "flow"
@@ -41,6 +41,9 @@ block content
         {filename: "FY20.csv"},
         {filename: "FY21.csv"},
         {filename: "FY22.csv"},
+        {filename: "FY23.csv"},
+        {filename: "FY24.csv"},
+        {filename: "FY25.csv"},
       ]
     each fileObj in fileNames
       input(class="filename-data", type="hidden", value=fileObj.filename)

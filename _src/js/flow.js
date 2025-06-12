@@ -132,281 +132,100 @@ function data_wrangle(dataset, fy) {
     case "FY16":
     case "FY17":
     case "FY18":
-      return(data_wrangle_v1(dataset, fy));
+      return(data_wrangle_v1(dataset, "account_category", "department", "account_type", "Revenues", "Expenses", "fund_code", "General Funds", "amount"));
     case "FY13":
     case "FY14":
     case "FY19":
     case "FY20":
     case "FY21":
     case "FY22":
-      return(data_wrangle_v2(dataset, fy)); 
+    case "FY23":
+    case "FY24":
+      return(data_wrangle_v1(dataset, "CATEGORY", "Department", "ExpenseRevenue", "R", "E", "Fund", "General Fund", "Amount"));
+    case "FY25":
+      return(data_wrangle_v1(dataset, "CATEGORY", "Department", "ExpenseRevenue", "Revenues", "Expenses", "Fund", "General Fund", "Amount"));
+    default:
+      return(data_wrangle_v1(dataset, "CATEGORY", "Department", "ExpenseRevenue", "Revenues", "Expenses", "Fund", "General Fund", "Amount"));
   } 
 }
 
-function data_wrangle_v1(dataset, fy) {
+// NOTE list is specific to Sacramento Data
+const rev_order = [
+  "Taxes",
+  "Charges, Fees, and Services",
+  "Miscellaneous Revenue",
+  "Intergovernmental",
+  "Contributions from Other Funds",
+  "Licenses and Permits",
+  "Fines, Forfeitures, and  Penalties",
+  "Interest, Rents, and Concessions",
+];
 
-  var newdata = dataset.filter(function (v) {
-    return v.budget_year == fy;
-  });
-  rev_order = [
-    // NOTE(Donny) list is specific to Sacramento Data
-    "Taxes",
-    "Charges, Fees, and Services",
-    "Miscellaneous Revenue",
-    "Intergovernmental",
-    "Contributions from Other Funds",
-    "Licenses and Permits",
-    "Fines, Forfeitures, and  Penalties",
-    "Interest, Rents, and Concessions",
-  ];
-  rev = newdata.filter(function (v, i, a) {
-    return v.account_type == "Revenues";
-  });
-  revcats = d3
-    .nest()
-    .key(function (d) {
-      return d.account_category;
-    })
-    .sortKeys(function (a, b) {
-      return rev_order.indexOf(a) - rev_order.indexOf(b);
-    })
-    .key(function (d) {
-      if (d.fund_code == "General Funds") {
-        return "General Fund";
-      } else {
-        return "Non-discretionary funds";
-      }
-    })
-    .rollup(function (v) {
-      var values = v;
-      values.total = d3.sum(values, function (d) {
-        return +d.amount;
-      });
-      return values;
-    })
-    .entries(rev);
-  nodes = [
+// NOTE list is specific to Sacramento Data
+const exp_order = [
+  "Police",
+  "Utilities",
+  "Citywide and Community Support",
+  "General Services",
+  "Fire",
+  "Debt Service",
+  "Public Works",
+  "Human Resources",
+  "Parks and Recreation",
+  "Community Development",
+  "Convention and Cultural Services",
+  "Finance",
+  "Information Technology",
+  "City Attorney",
+  "Mayor/Council",
+  "City Manager",
+  "City Treasurer",
+  "Economic Development",
+  "City Clerk",
+  "Non-Appropriated",
+];
+
+const sort_by = fields_arr => (a, b) => fields_arr.indexOf(a) - fields_arr.indexOf(b)
+const fundKey = (fund_field, general_fund) => d => d[fund_field] == general_fund ? "General Fund" : "Non-discretionary funds"
+const rollupFn = amount_field => v => ({...v, total: d3.sum(v, d => +d[amount_field])})
+const generateNodesAndLinks = (data, type, offset) => ({
+  nodes: data.map(kv => ({ name: kv.key, type })),
+  links: data.map((kv, i) => 
+    kv.values.map((kv2) => ({
+      [type === 'revenue' ? 'source' : 'target']: i + offset,
+      value: kv2.values.total,
+      [type === 'revenue' ? 'target' : 'source']: kv2.key === "General Fund" ? 0 : 1
+    }))
+  ).flat()
+})
+
+function data_wrangle_v1(dataset, category_field, department_field, expense_field, revenue_value, expense_value, fund_field, general_fund, amount_field) {
+  const nodes = [
     { name: "General Funds", type: "fund", order: 0 },
     { name: "Non-discretionary funds", type: "fund", order: 1 },
   ];
-  nodeoffset = nodes.length;
-  links = [];
-  for (var i = 0; i < revcats.length; i++) {
-    nodes.push({ name: revcats[i].key, type: "revenue" });
-    for (var x = 0; x < revcats[i].values.length; x++) {
-      var link = {
-        source: i + nodeoffset,
-        value: revcats[i].values[x].values.total,
-      };
-      if (revcats[i].values[x].key == "General Fund") {
-        link.target = 0;
-      } else if (revcats[i].values[x].key == "Non-discretionary funds") {
-        link.target = 1;
-      }
-      links.push(link);
-    }
-  }
-  exp = newdata.filter(function (v, i, a) {
-    return v.account_type == "Expenses";
-  });
-
-  // NOTE(Donny) list is specific to Sacramento Data
-  exp_order = [
-    "Police",
-    "Utilities",
-    "Citywide and Community Support",
-    "General Services",
-    "Fire",
-    "Debt Service",
-    "Public Works",
-    "Human Resources",
-    "Parks and Recreation",
-    "Community Development",
-    "Convention and Cultural Services",
-    "Finance",
-    "Information Technology",
-    "City Attorney",
-    "Mayor/Council",
-    "City Manager",
-    "City Treasurer",
-    "Economic Development",
-    "City Clerk",
-    "Non-Appropriated",
-  ];
-  expdivs = d3
-    .nest()
-    .key(function (d) {
-      return d.department;
-    })
-    .sortKeys(function (a, b) {
-      return exp_order.indexOf(a) - exp_order.indexOf(b);
-    })
-    .key(function (d) {
-      if (d.fund_code == "General Funds") {
-        return "General Fund";
-      } else {
-        return "Non-discretionary funds";
-      }
-    })
-    .rollup(function (v) {
-      var values = v;
-      values.total = d3.sum(values, function (d) {
-        return d.amount;
-      });
-      return values;
-    })
-    .entries(exp);
-
-  for (var i = 0; i < expdivs.length; i++) {
-    nodes.push({ name: expdivs[i].key, type: "expense" });
-    for (var x = 0; x < expdivs[i].values.length; x++) {
-      var link = {
-        target: i + nodeoffset + revcats.length,
-        value: expdivs[i].values[x].values.total,
-      };
-      if (expdivs[i].values[x].key == "General Fund") {
-        link.source = 0;
-      } else if (expdivs[i].values[x].key == "Non-discretionary funds") {
-        link.source = 1;
-      }
-      links.push(link);
-    }
-  }
-
-  return { nodes: nodes, links: links };
-}
-
-function data_wrangle_v2(dataset, fy) {
-
-  var newdata = dataset.filter(function (v) {
-    return true;
-  });
-  rev_order = [
-    // NOTE(Donny) list is specific to Sacramento Data
-    "Taxes",
-    "Charges, Fees, and Services",
-    "Miscellaneous Revenue",
-    "Intergovernmental",
-    "Contributions from Other Funds",
-    "Licenses and Permits",
-    "Fines, Forfeitures, and  Penalties",
-    "Interest, Rents, and Concessions",
-  ];
-  rev = newdata.filter(function (v, i, a) {
-    return v.ExpenseRevenue == "R";
-  });
+  
+  const rev = dataset.filter(v =>  v[expense_field] == revenue_value)
   revcats = d3
     .nest()
-    .key(function (d) {
-      return d.CATEGORY;
-    })
-    .sortKeys(function (a, b) {
-      return rev_order.indexOf(a) - rev_order.indexOf(b);
-    })
-    .key(function (d) {
-      if (d.Fund == "General Fund") {
-        return "General Fund";
-      } else {
-        return "Non-discretionary funds";
-      }
-    })
-    .rollup(function (v) {
-      var values = v;
-      values.total = d3.sum(values, function (d) {
-        return +d.Amount;
-      });
-      return values;
-    })
+    .key(d => d[category_field])
+    .sortKeys(sort_by(rev_order))
+    .key(fundKey(fund_field, general_fund))
+    .rollup(rollupFn(amount_field))
     .entries(rev);
-  nodes = [
-    { name: "General Funds", type: "fund", order: 0 },
-    { name: "Non-discretionary funds", type: "fund", order: 1 },
-  ];
-  nodeoffset = nodes.length;
-  links = [];
-  for (var i = 0; i < revcats.length; i++) {
-    nodes.push({ name: revcats[i].key, type: "revenue" });
-    for (var x = 0; x < revcats[i].values.length; x++) {
-      var link = {
-        source: i + nodeoffset,
-        value: revcats[i].values[x].values.total,
-      };
-      if (revcats[i].values[x].key == "General Fund") {
-        link.target = 0;
-      } else if (revcats[i].values[x].key == "Non-discretionary funds") {
-        link.target = 1;
-      }
-      links.push(link);
-    }
-  }
-  exp = newdata.filter(function (v, i, a) {
-    return v.ExpenseRevenue == "E";
-  });
+  const rev_data = generateNodesAndLinks(revcats, "revenue", nodes.length)
 
-  // NOTE(Donny) list is specific to Sacramento Data
-  exp_order = [
-    "Police",
-    "Utilities",
-    "Citywide and Community Support",
-    "General Services",
-    "Fire",
-    "Debt Service",
-    "Public Works",
-    "Human Resources",
-    "Parks and Recreation",
-    "Community Development",
-    "Convention and Cultural Services",
-    "Finance",
-    "Information Technology",
-    "City Attorney",
-    "Mayor/Council",
-    "City Manager",
-    "City Treasurer",
-    "Economic Development",
-    "City Clerk",
-    "Non-Appropriated",
-  ];
+  const exp = dataset.filter(v =>  v[expense_field] == expense_value)
   expdivs = d3
     .nest()
-    .key(function (d) {
-      return d.Department;
-    })
-    .sortKeys(function (a, b) {
-      return exp_order.indexOf(a) - exp_order.indexOf(b);
-    })
-    .key(function (d) {
-      if (d.Fund == "General Fund") {
-        return "General Fund";
-      } else {
-        return "Non-discretionary funds";
-      }
-    })
-    .rollup(function (v) {
-      var values = v;
-      values.total = d3.sum(values, function (d) {
-        return d.Amount;
-      });
-      return values;
-    })
+    .key(d => d[department_field])
+    .sortKeys(sort_by(exp_order))
+    .key(fundKey(fund_field, general_fund))
+    .rollup(rollupFn(amount_field))
     .entries(exp);
+  const exp_data = generateNodesAndLinks(expdivs, "expense", nodes.length + rev_data.nodes.length)
 
-  for (var i = 0; i < expdivs.length; i++) {
-    nodes.push({ name: expdivs[i].key, type: "expense" });
-    for (var x = 0; x < expdivs[i].values.length; x++) {
-      var link = {
-        target: i + nodeoffset + revcats.length,
-        value: expdivs[i].values[x].values.total,
-      };
-      if (expdivs[i].values[x].key == "General Fund") {
-        link.source = 0;
-      } else if (expdivs[i].values[x].key == "Non-discretionary funds") {
-        link.source = 1;
-      }
-      links.push(link);
-    }
-  }
-
-  return { nodes: nodes, links: links };
+  return { nodes: [...nodes, ...rev_data.nodes, ...exp_data.nodes], links: [...rev_data.links, ...exp_data.links] };
 }
 
 // render the sankey
@@ -457,7 +276,6 @@ function do_with_budget(data) {
     .on("mouseover", function (d) {
       let definition = "";
       const sourceWords = d.source.name.split(" ");
-      console.log(`hovering over ${sourceWords[sourceWords.length - 1]}`);
 
       // TODO(donny) - function is referencing results from an api which has not been set up for sacramento yet.
       //
