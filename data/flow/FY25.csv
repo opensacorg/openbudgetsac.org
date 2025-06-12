@@ -1,0 +1,654 @@
+ObjectId,Fiscal_Year,Department,Fund,CATEGORY,Amount,ExpenseRevenue,Fund_Category
+6600,2025,City Attorney,Cty/Cnty Office-Water Planning,Labor and Supply Offset,9565,Expenses,Other Governmental Funds
+6601,2025,City Attorney,General Fund,City Property,13750,Expenses,Fund Total
+6602,2025,City Attorney,General Fund,Employee Services,15534095,Expenses,Fund Total
+6603,2025,City Attorney,General Fund,Intergovernmental,52000,Revenues,Fund Total
+6604,2025,City Attorney,General Fund,Labor and Supply Offset,-4556444,Expenses,Fund Total
+6605,2025,City Attorney,General Fund,Other Services and Supplies,529589,Expenses,Fund Total
+6606,2025,City Attorney,Interdepartmental Service Fund,Labor and Supply Offset,2652049,Expenses,Other Governmental Funds
+6607,2025,City Attorney,Measure U Fund,Labor and Supply Offset,279402,Expenses,Fund Total
+6608,2025,City Attorney,Storm Drainage Fund,Labor and Supply Offset,73333,Expenses,Enterprise Funds
+6609,2025,City Attorney,Wastewater Fund,Labor and Supply Offset,54203,Expenses,Enterprise Funds
+6610,2025,City Attorney,Water Fund,Labor and Supply Offset,181739,Expenses,Enterprise Funds
+6611,2025,City Clerk,General Fund,"Charges, Fees, and Services",2000,Revenues,Fund Total
+6612,2025,City Clerk,General Fund,City Property,2000,Expenses,Fund Total
+6613,2025,City Clerk,General Fund,Employee Services,3517146,Expenses,Fund Total
+6614,2025,City Clerk,General Fund,Intergovernmental,40000,Revenues,Fund Total
+6615,2025,City Clerk,General Fund,Labor and Supply Offset,-993453,Expenses,Fund Total
+6616,2025,City Clerk,General Fund,Multi-Year Operating Projects,1750,Expenses,Fund Total
+6617,2025,City Clerk,General Fund,Other Services and Supplies,625682,Expenses,Fund Total
+6618,2025,City Clerk,Interdepartmental Service Fund,Labor and Supply Offset,993453,Expenses,Other Governmental Funds
+6619,2025,City Manager,2003 North Sac TE TABS,Other Services and Supplies,9000,Expenses,Other Governmental Funds
+6620,2025,City Manager,Block Grant/Housing and Redev,Intergovernmental,29250,Revenues,Other Governmental Funds
+6621,2025,City Manager,Block Grant/Housing and Redev,Other Services and Supplies,29250,Expenses,Other Governmental Funds
+6622,2025,City Manager,General Fund,"Charges, Fees, and Services",186300,Revenues,Fund Total
+6623,2025,City Manager,General Fund,City Property,22326,Expenses,Fund Total
+6624,2025,City Manager,General Fund,Employee Services,6481426,Expenses,Fund Total
+6625,2025,City Manager,General Fund,Labor and Supply Offset,-1638111,Expenses,Fund Total
+6626,2025,City Manager,General Fund,Licenses and Permits,3611924,Revenues,Fund Total
+6627,2025,City Manager,General Fund,Multi-Year Operating Projects,1454646,Expenses,Fund Total
+6628,2025,City Manager,General Fund,Other Services and Supplies,1125138,Expenses,Fund Total
+6629,2025,City Manager,Innovation and Growth Fund,Employee Services,396914,Expenses,Other Governmental Funds
+6630,2025,City Manager,Innovation and Growth Fund,Multi-Year Operating Projects,-14200678,Expenses,Other Governmental Funds
+6631,2025,City Manager,Innovation and Growth Fund,Other Services and Supplies,484000,Expenses,Other Governmental Funds
+6632,2025,City Manager,Interdepartmental Service Fund,Labor and Supply Offset,1557424,Expenses,Other Governmental Funds
+6633,2025,City Manager,Measure U Fund,City Property,2000,Expenses,Fund Total
+6634,2025,City Manager,Measure U Fund,Employee Services,5544170,Expenses,Fund Total
+6635,2025,City Manager,Measure U Fund,Labor and Supply Offset,-183444,Expenses,Fund Total
+6636,2025,City Manager,Measure U Fund,Multi-Year Operating Projects,715754,Expenses,Fund Total
+6637,2025,City Manager,Measure U Fund,Other Services and Supplies,897078,Expenses,Fund Total
+6638,2025,City Treasurer,General Fund,"Charges, Fees, and Services",120000,Revenues,Fund Total
+6639,2025,City Treasurer,General Fund,City Property,5000,Expenses,Fund Total
+6640,2025,City Treasurer,General Fund,Contributions from Other Funds,3800000,Revenues,Fund Total
+6641,2025,City Treasurer,General Fund,Employee Services,2898455,Expenses,Fund Total
+6642,2025,City Treasurer,General Fund,Intergovernmental,1280000,Revenues,Fund Total
+6643,2025,City Treasurer,General Fund,Labor and Supply Offset,-1403847,Expenses,Fund Total
+6644,2025,City Treasurer,General Fund,Multi-Year Operating Projects,1000,Expenses,Fund Total
+6645,2025,City Treasurer,General Fund,Other Services and Supplies,253111,Expenses,Fund Total
+6646,2025,City Treasurer,Interdepartmental Service Fund,Labor and Supply Offset,1404197,Expenses,Other Governmental Funds
+6647,2025,Citywide and Community Support,16th St PBID,Other Services and Supplies,194344,Expenses,Other Governmental Funds
+6648,2025,Citywide and Community Support,4th R Program,Employee Services,33773,Expenses,Other Governmental Funds
+6649,2025,Citywide and Community Support,Aggie Square EIFD,Taxes,16272,Revenues,Other Governmental Funds
+6650,2025,Citywide and Community Support,Community Center Fund,Employee Services,125695,Expenses,Enterprise Funds
+6651,2025,Citywide and Community Support,Community Center Fund,"Interest, Rents, and Concessions",550000,Revenues,Enterprise Funds
+6652,2025,Citywide and Community Support,Community Center Fund,Other Services and Supplies,1766657,Expenses,Enterprise Funds
+6653,2025,Citywide and Community Support,Cty/Cnty Office-Water Planning,City Property,0,Expenses,Other Governmental Funds
+6654,2025,Citywide and Community Support,Cty/Cnty Office-Water Planning,Employee Services,1613,Expenses,Other Governmental Funds
+6655,2025,Citywide and Community Support,Cty/Cnty Office-Water Planning,Intergovernmental,0,Revenues,Other Governmental Funds
+6656,2025,Citywide and Community Support,Cty/Cnty Office-Water Planning,Labor and Supply Offset,0,Expenses,Other Governmental Funds
+6657,2025,Citywide and Community Support,Cty/Cnty Office-Water Planning,Operating Transfers,0,Expenses,Other Governmental Funds
+6658,2025,Citywide and Community Support,Cty/Cnty Office-Water Planning,Other Services and Supplies,0,Expenses,Other Governmental Funds
+6659,2025,Citywide and Community Support,Del Paso PBID,"Charges, Fees, and Services",47009,Revenues,Other Governmental Funds
+6660,2025,Citywide and Community Support,Del Paso PBID,Other Services and Supplies,47009,Expenses,Other Governmental Funds
+6661,2025,Citywide and Community Support,Del Paso Prop and Business Imprv,Other Services and Supplies,551095,Expenses,Other Governmental Funds
+6662,2025,Citywide and Community Support,Downtown Management District,Other Services and Supplies,4198181,Expenses,Other Governmental Funds
+6663,2025,Citywide and Community Support,Downtown Plaza PBID,"Charges, Fees, and Services",76230,Revenues,Other Governmental Funds
+6664,2025,Citywide and Community Support,Downtown Plaza PBID,Other Services and Supplies,76230,Expenses,Other Governmental Funds
+6665,2025,Citywide and Community Support,Fleet Management Fund,Employee Services,185790,Expenses,Internal Service Funds
+6666,2025,Citywide and Community Support,Fleet Management Fund,"Interest, Rents, and Concessions",200000,Revenues,Internal Service Funds
+6667,2025,Citywide and Community Support,Franklin Blvd PBID,"Charges, Fees, and Services",95288,Revenues,Other Governmental Funds
+6668,2025,Citywide and Community Support,Franklin Blvd PBID,Other Services and Supplies,95288,Expenses,Other Governmental Funds
+6669,2025,Citywide and Community Support,Franklin Boulevard PBID,Other Services and Supplies,228152,Expenses,Other Governmental Funds
+6670,2025,Citywide and Community Support,Gas Tax 2106,"Interest, Rents, and Concessions",239000,Revenues,Other Governmental Funds
+6671,2025,Citywide and Community Support,General Fund,"Charges, Fees, and Services",4477248,Revenues,Fund Total
+6672,2025,Citywide and Community Support,General Fund,City Property,300000,Expenses,Fund Total
+6673,2025,Citywide and Community Support,General Fund,Contingency,2000000,Expenses,Fund Total
+6674,2025,Citywide and Community Support,General Fund,Contributions from Other Funds,40134900,Revenues,Fund Total
+6675,2025,Citywide and Community Support,General Fund,Employee Services,7514830,Expenses,Fund Total
+6676,2025,Citywide and Community Support,General Fund,"Interest, Rents, and Concessions",4625000,Revenues,Fund Total
+6677,2025,Citywide and Community Support,General Fund,Intergovernmental,5346109,Revenues,Fund Total
+6678,2025,Citywide and Community Support,General Fund,Labor and Supply Offset,-2643036,Expenses,Fund Total
+6679,2025,Citywide and Community Support,General Fund,Licenses and Permits,1768881,Revenues,Fund Total
+6680,2025,Citywide and Community Support,General Fund,Multi-Year Operating Projects,10310851,Expenses,Fund Total
+6681,2025,Citywide and Community Support,General Fund,Operating Transfers,0,Expenses,Fund Total
+6682,2025,Citywide and Community Support,General Fund,Other Services and Supplies,55085449,Expenses,Fund Total
+6683,2025,Citywide and Community Support,General Fund,Taxes,466659769,Revenues,Fund Total
+6684,2025,Citywide and Community Support,Greater Broadway PBID,Other Services and Supplies,451101,Expenses,Other Governmental Funds
+6685,2025,Citywide and Community Support,Habitat Management Element,Intergovernmental,0,Revenues,Other Governmental Funds
+6686,2025,Citywide and Community Support,Habitat Management Element,Labor and Supply Offset,0,Expenses,Other Governmental Funds
+6687,2025,Citywide and Community Support,Habitat Management Element,Operating Transfers,0,Expenses,Other Governmental Funds
+6688,2025,Citywide and Community Support,Habitat Management Element,Other Services and Supplies,0,Expenses,Other Governmental Funds
+6689,2025,Citywide and Community Support,Innovation and Growth Fund,Employee Services,0,Expenses,Other Governmental Funds
+6690,2025,Citywide and Community Support,Innovation and Growth Fund,Operating Transfers,0,Expenses,Other Governmental Funds
+6691,2025,Citywide and Community Support,Innovation and Growth Fund,Taxes,13467900,Revenues,Other Governmental Funds
+6692,2025,Citywide and Community Support,Interdepartmental Service Fund,Labor and Supply Offset,2643036,Expenses,Other Governmental Funds
+6693,2025,Citywide and Community Support,Library Services Parcel Tax,"Charges, Fees, and Services",9989149,Revenues,Other Governmental Funds
+6694,2025,Citywide and Community Support,Library Services Parcel Tax,Other Services and Supplies,9989149,Expenses,Other Governmental Funds
+6695,2025,Citywide and Community Support,Mack Road PBID,Other Services and Supplies,752038,Expenses,Other Governmental Funds
+6696,2025,Citywide and Community Support,Major Street Construction Fund,"Interest, Rents, and Concessions",70000,Revenues,Other Governmental Funds
+6697,2025,Citywide and Community Support,Marina Fund,Employee Services,0,Expenses,Other Governmental Funds
+6698,2025,Citywide and Community Support,Marina Fund,"Interest, Rents, and Concessions",18000,Revenues,Other Governmental Funds
+6699,2025,Citywide and Community Support,Measure U Fund,Employee Services,-169350,Expenses,Fund Total
+6700,2025,Citywide and Community Support,Measure U Fund,"Interest, Rents, and Concessions",1250000,Revenues,Fund Total
+6701,2025,Citywide and Community Support,Measure U Fund,Labor and Supply Offset,154634,Expenses,Fund Total
+6702,2025,Citywide and Community Support,Measure U Fund,Multi-Year Operating Projects,6520145,Expenses,Fund Total
+6703,2025,Citywide and Community Support,Measure U Fund,Other Services and Supplies,20590490,Expenses,Fund Total
+6704,2025,Citywide and Community Support,Measure U Fund,Taxes,139093812,Revenues,Fund Total
+6705,2025,Citywide and Community Support,Midtown Sacramento PBID,Other Services and Supplies,1897592,Expenses,Other Governmental Funds
+6706,2025,Citywide and Community Support,N Natomas Transp Mgmt Assoc,Other Services and Supplies,1970000,Expenses,Other Governmental Funds
+6707,2025,Citywide and Community Support,New Measure A Maintenance,"Interest, Rents, and Concessions",20000,Revenues,Other Governmental Funds
+6708,2025,Citywide and Community Support,"NMA Safety, Streets, Ped, Bic","Interest, Rents, and Concessions",42000,Revenues,Other Governmental Funds
+6709,2025,Citywide and Community Support,NMA Traffic Control and Safety,"Interest, Rents, and Concessions",30000,Revenues,Other Governmental Funds
+6710,2025,Citywide and Community Support,Oak Park PBID,Other Services and Supplies,357386,Expenses,Other Governmental Funds
+6711,2025,Citywide and Community Support,Old Sacramento PBID,"Charges, Fees, and Services",145530,Revenues,Other Governmental Funds
+6712,2025,Citywide and Community Support,Old Sacramento PBID,Other Services and Supplies,145530,Expenses,Other Governmental Funds
+6713,2025,Citywide and Community Support,Parking Fund,Employee Services,88609,Expenses,Enterprise Funds
+6714,2025,Citywide and Community Support,Parking Fund,"Interest, Rents, and Concessions",300000,Revenues,Enterprise Funds
+6715,2025,Citywide and Community Support,Power Inn Area Prop and Business,Other Services and Supplies,615386,Expenses,Other Governmental Funds
+6716,2025,Citywide and Community Support,Quimby Act Fund,"Charges, Fees, and Services",100000,Revenues,Other Governmental Funds
+6717,2025,Citywide and Community Support,Recycling and Solid Waste,Employee Services,542407,Expenses,Enterprise Funds
+6718,2025,Citywide and Community Support,Recycling and Solid Waste,"Interest, Rents, and Concessions",750000,Revenues,Enterprise Funds
+6719,2025,Citywide and Community Support,Risk Mgmt Fund,Employee Services,16293,Expenses,Risk Management
+6720,2025,Citywide and Community Support,Sac Tourism Marketing District,"Charges, Fees, and Services",3645400,Revenues,Other Governmental Funds
+6721,2025,Citywide and Community Support,Sac Tourism Marketing District,Other Services and Supplies,3568492,Expenses,Other Governmental Funds
+6722,2025,Citywide and Community Support,Sacramento TID,"Charges, Fees, and Services",3896883,Revenues,Other Governmental Funds
+6723,2025,Citywide and Community Support,So Natomas Comm Improv,Intergovernmental,0,Revenues,Other Governmental Funds
+6724,2025,Citywide and Community Support,Stadium Area EIFD,Taxes,1548,Revenues,Other Governmental Funds
+6725,2025,Citywide and Community Support,START Fund,Employee Services,4704,Expenses,Other Governmental Funds
+6726,2025,Citywide and Community Support,Stockton Blvd BIA,"Charges, Fees, and Services",74705,Revenues,Other Governmental Funds
+6727,2025,Citywide and Community Support,Stockton Blvd BIA,Other Services and Supplies,74705,Expenses,Other Governmental Funds
+6728,2025,Citywide and Community Support,Stockton Blvd PBID,Other Services and Supplies,447745,Expenses,Other Governmental Funds
+6729,2025,Citywide and Community Support,Storm Drainage Fund,Employee Services,292233,Expenses,Enterprise Funds
+6730,2025,Citywide and Community Support,Storm Drainage Fund,"Interest, Rents, and Concessions",440000,Revenues,Enterprise Funds
+6731,2025,Citywide and Community Support,Storm Drainage Property Fee,"Interest, Rents, and Concessions",100000,Revenues,Enterprise Funds
+6732,2025,Citywide and Community Support,The River District PBID,Other Services and Supplies,751570,Expenses,Other Governmental Funds
+6733,2025,Citywide and Community Support,Wastewater Fund,Employee Services,202880,Expenses,Enterprise Funds
+6734,2025,Citywide and Community Support,Wastewater Fund,"Interest, Rents, and Concessions",430000,Revenues,Enterprise Funds
+6735,2025,Citywide and Community Support,Water Fund,Employee Services,615515,Expenses,Enterprise Funds
+6736,2025,Citywide and Community Support,Water Fund,"Interest, Rents, and Concessions",865000,Revenues,Enterprise Funds
+6737,2025,Citywide and Community Support,Water Fund,Operating Transfers,0,Expenses,Enterprise Funds
+6738,2025,Citywide and Community Support,Worker's Compensation Fund,Employee Services,36143,Expenses,Risk Management
+6739,2025,Citywide and Community Support,Worker's Compensation Fund,"Interest, Rents, and Concessions",500000,Revenues,Risk Management
+6740,2025,Community Development,Citywide Low Income Housing Fund,Licenses and Permits,2970000,Revenues,Other Governmental Funds
+6741,2025,Community Development,Citywide Low Income Housing Fund,Other Services and Supplies,2970000,Expenses,Other Governmental Funds
+6742,2025,Community Development,Development Services Fund,"Charges, Fees, and Services",2588700,Revenues,Other Governmental Funds
+6743,2025,Community Development,Development Services Fund,Intergovernmental,1332000,Revenues,Other Governmental Funds
+6744,2025,Community Development,Development Services Fund,Multi-Year Operating Projects,3688700,Expenses,Other Governmental Funds
+6745,2025,Community Development,General Fund,"Charges, Fees, and Services",4983012,Revenues,Fund Total
+6746,2025,Community Development,General Fund,City Property,113287,Expenses,Fund Total
+6747,2025,Community Development,General Fund,Employee Services,29415541,Expenses,Fund Total
+6748,2025,Community Development,General Fund,"Fines, Forfeitures, and  Penalties",1685184,Revenues,Fund Total
+6749,2025,Community Development,General Fund,Labor and Supply Offset,2214977,Expenses,Fund Total
+6750,2025,Community Development,General Fund,Licenses and Permits,23898546,Revenues,Fund Total
+6751,2025,Community Development,General Fund,Miscellaneous Revenue,1065960,Revenues,Fund Total
+6752,2025,Community Development,General Fund,Multi-Year Operating Projects,121200,Expenses,Fund Total
+6753,2025,Community Development,General Fund,Other Services and Supplies,5359856,Expenses,Fund Total
+6754,2025,Community Development,General Fund,Transfers,328418,Expenses,Fund Total
+6755,2025,Community Development,Landscaping and Lighting,Labor and Supply Offset,262600,Expenses,Other Governmental Funds
+6756,2025,Community Development,Measure U Fund,City Property,68354,Expenses,Fund Total
+6757,2025,Community Development,Measure U Fund,Employee Services,15092279,Expenses,Fund Total
+6758,2025,Community Development,Measure U Fund,Labor and Supply Offset,-5558006,Expenses,Fund Total
+6759,2025,Community Development,Measure U Fund,Multi-Year Operating Projects,4428500,Expenses,Fund Total
+6760,2025,Community Development,Measure U Fund,Other Services and Supplies,4137689,Expenses,Fund Total
+6761,2025,Community Development,Special Program Donations Fund,Miscellaneous Revenue,250000,Revenues,Other Governmental Funds
+6762,2025,Community Development,Special Program Donations Fund,Multi-Year Operating Projects,250000,Expenses,Other Governmental Funds
+6763,2025,Community Response,Measure U Fund,City Property,322790,Expenses,Fund Total
+6764,2025,Community Response,Measure U Fund,Employee Services,4858122,Expenses,Fund Total
+6765,2025,Community Response,Measure U Fund,Multi-Year Operating Projects,19581070,Expenses,Fund Total
+6766,2025,Community Response,Measure U Fund,Other Services and Supplies,682583,Expenses,Fund Total
+6767,2025,Convention and Cultural Services,Community Center Fund,"Charges, Fees, and Services",7961626,Revenues,Enterprise Funds
+6768,2025,Convention and Cultural Services,Community Center Fund,City Property,43000,Expenses,Enterprise Funds
+6769,2025,Convention and Cultural Services,Community Center Fund,Employee Services,11040884,Expenses,Enterprise Funds
+6770,2025,Convention and Cultural Services,Community Center Fund,"Fines, Forfeitures, and  Penalties",3100,Revenues,Enterprise Funds
+6771,2025,Convention and Cultural Services,Community Center Fund,"Interest, Rents, and Concessions",701000,Revenues,Enterprise Funds
+6772,2025,Convention and Cultural Services,Community Center Fund,Intergovernmental,80000,Revenues,Enterprise Funds
+6773,2025,Convention and Cultural Services,Community Center Fund,Labor and Supply Offset,2567182,Expenses,Enterprise Funds
+6774,2025,Convention and Cultural Services,Community Center Fund,Miscellaneous Revenue,866000,Revenues,Enterprise Funds
+6775,2025,Convention and Cultural Services,Community Center Fund,Multi-Year Operating Projects,64000,Expenses,Enterprise Funds
+6776,2025,Convention and Cultural Services,Community Center Fund,Operating Transfers,2162500,Expenses,Enterprise Funds
+6777,2025,Convention and Cultural Services,Community Center Fund,Other Services and Supplies,9674470,Expenses,Enterprise Funds
+6778,2025,Convention and Cultural Services,Community Center Fund,Taxes,34543097,Revenues,Enterprise Funds
+6779,2025,Convention and Cultural Services,Community Center Fund,Transfers,0,Expenses,Enterprise Funds
+6780,2025,Convention and Cultural Services,Fairytale Town Fund,"Charges, Fees, and Services",50000,Revenues,Other Governmental Funds
+6781,2025,Convention and Cultural Services,Fairytale Town Fund,Labor and Supply Offset,25000,Expenses,Other Governmental Funds
+6782,2025,Convention and Cultural Services,Fairytale Town Fund,Other Services and Supplies,25000,Expenses,Other Governmental Funds
+6783,2025,Convention and Cultural Services,General Fund,"Charges, Fees, and Services",286277,Revenues,Fund Total
+6784,2025,Convention and Cultural Services,General Fund,"Interest, Rents, and Concessions",180000,Revenues,Fund Total
+6785,2025,Convention and Cultural Services,General Fund,Intergovernmental,307650,Revenues,Fund Total
+6786,2025,Convention and Cultural Services,General Fund,Labor and Supply Offset,796808,Expenses,Fund Total
+6787,2025,Convention and Cultural Services,General Fund,Licenses and Permits,22881,Revenues,Fund Total
+6788,2025,Convention and Cultural Services,H Street Theater Fund,City Property,20000,Expenses,Other Governmental Funds
+6789,2025,Convention and Cultural Services,H Street Theater Fund,Intergovernmental,30000,Revenues,Other Governmental Funds
+6790,2025,Convention and Cultural Services,H Street Theater Fund,Miscellaneous Revenue,15000,Revenues,Other Governmental Funds
+6791,2025,Convention and Cultural Services,H Street Theater Fund,Other Services and Supplies,25000,Expenses,Other Governmental Funds
+6792,2025,Convention and Cultural Services,Innovation and Growth Fund,Multi-Year Operating Projects,850000,Expenses,Other Governmental Funds
+6793,2025,Convention and Cultural Services,Measure U Fund,City Property,6000,Expenses,Fund Total
+6794,2025,Convention and Cultural Services,Measure U Fund,Employee Services,3426194,Expenses,Fund Total
+6795,2025,Convention and Cultural Services,Measure U Fund,Labor and Supply Offset,-1572625,Expenses,Fund Total
+6796,2025,Convention and Cultural Services,Measure U Fund,Multi-Year Operating Projects,614000,Expenses,Fund Total
+6797,2025,Convention and Cultural Services,Measure U Fund,Other Services and Supplies,1779299,Expenses,Fund Total
+6798,2025,Convention and Cultural Services,Measure U Fund,Transfers,-85000,Expenses,Fund Total
+6799,2025,Convention and Cultural Services,Old Sac Market,"Charges, Fees, and Services",110000,Revenues,Other Governmental Funds
+6800,2025,Convention and Cultural Services,Old Sac Market,Other Services and Supplies,104000,Expenses,Other Governmental Funds
+6801,2025,Convention and Cultural Services,Old Sacto Maint Dist,Labor and Supply Offset,66719,Expenses,Other Governmental Funds
+6802,2025,Convention and Cultural Services,Winchester G and Mary Alice Felt,Transfers,85000,Expenses,Other Governmental Funds
+6803,2025,Convention and Cultural Services,Zoo,"Charges, Fees, and Services",50000,Revenues,Other Governmental Funds
+6804,2025,Convention and Cultural Services,Zoo,Labor and Supply Offset,50000,Expenses,Other Governmental Funds
+6805,2025,Debt Service,"2006 CIRBs (Refunding), Series E",City Debt Service,231037,Expenses,Other Governmental Funds
+6806,2025,Debt Service,"2006 CIRBs (Refunding), Series E",Intergovernmental,231035,Revenues,Other Governmental Funds
+6807,2025,Debt Service,"2006 CIRBs, Series B (CRCIP)",City Debt Service,1512650,Expenses,Other Governmental Funds
+6808,2025,Debt Service,"2006 CIRBs, Series B (CRCIP)","Interest, Rents, and Concessions",87600,Revenues,Other Governmental Funds
+6809,2025,Debt Service,"2006 CIRBs, Series B (CRCIP)",Intergovernmental,1113050,Revenues,Other Governmental Funds
+6810,2025,Debt Service,2015 Golden 1 Center Revenue Bonds,City Debt Service,8889286,Expenses,Other Governmental Funds
+6811,2025,Debt Service,2015 Golden 1 Center Revenue Bonds,"Interest, Rents, and Concessions",8601293,Revenues,Other Governmental Funds
+6812,2025,Debt Service,2015 Refunding Revenue Bond,City Debt Service,0,Expenses,Other Governmental Funds
+6813,2025,Debt Service,2016 Lease Financing-H Street,City Debt Service,674515,Expenses,Other Governmental Funds
+6814,2025,Debt Service,2016 Lease Financing-H Street,Intergovernmental,674515,Revenues,Other Governmental Funds
+6815,2025,Debt Service,"2018 TOT Revenue Bonds, Tax Exempt",City Debt Service,-696666,Expenses,Enterprise Funds
+6816,2025,Debt Service,"2018 TOT Revenue Bonds, Taxable",City Debt Service,696715,Expenses,Enterprise Funds
+6817,2025,Debt Service,2019 STID Revenue Bonds,City Debt Service,0,Expenses,Enterprise Funds
+6818,2025,Debt Service,Community Center Fund,City Debt Service,20318486,Expenses,Enterprise Funds
+6819,2025,Debt Service,Drinking Water SRF Loan,City Debt Service,0,Expenses,Enterprise Funds
+6820,2025,Debt Service,Drinking Water SRF Loan,Miscellaneous Revenue,0,Revenues,Enterprise Funds
+6821,2025,Debt Service,Fleet Management Fund,City Debt Service,44842,Expenses,Internal Service Funds
+6822,2025,Debt Service,General Fund,City Debt Service,16578414,Expenses,Fund Total
+6823,2025,Debt Service,Golf Fund,City Debt Service,435087,Expenses,Other Governmental Funds
+6824,2025,Debt Service,Innovation and Growth Fund,City Debt Service,0,Expenses,Other Governmental Funds
+6825,2025,Debt Service,Marina Fund,City Debt Service,1207235,Expenses,Other Governmental Funds
+6826,2025,Debt Service,NNFP Public Facilities Fee Fund,City Debt Service,573171,Expenses,Other Governmental Funds
+6827,2025,Debt Service,NNFP Reg Park Land Acquisition,City Debt Service,825331,Expenses,Other Governmental Funds
+6828,2025,Debt Service,Parking Fund,City Debt Service,9780506,Expenses,Enterprise Funds
+6829,2025,Debt Service,Recycling and Solid Waste,City Debt Service,1674299,Expenses,Enterprise Funds
+6830,2025,Debt Service,Sacramento TID,City Debt Service,2742250,Expenses,Other Governmental Funds
+6831,2025,Debt Service,Storm Drainage Fund,City Debt Service,232860,Expenses,Enterprise Funds
+6832,2025,Debt Service,Wastewater Fund,City Debt Service,3910458,Expenses,Enterprise Funds
+6833,2025,Debt Service,Wastewater Rev Ref Bonds Ser 2020,City Debt Service,0,Expenses,Enterprise Funds
+6834,2025,Debt Service,Wastewater Revenue Bonds 2019,City Debt Service,0,Expenses,Enterprise Funds
+6835,2025,Debt Service,Water Fund,City Debt Service,32677464,Expenses,Enterprise Funds
+6836,2025,Debt Service,Water Rev Ref Bonds Ser 2020,City Debt Service,0,Expenses,Enterprise Funds
+6837,2025,Debt Service,Water Rev Ref Bonds Ser 2023,City Debt Service,0,Expenses,Enterprise Funds
+6838,2025,Debt Service,Water Revenue Bonds,City Debt Service,2860241,Expenses,Enterprise Funds
+6839,2025,Debt Service,Water Revenue Bonds Ser. 2017,City Debt Service,0,Expenses,Enterprise Funds
+6840,2025,Debt Service,Worker's Compensation Fund,"Interest, Rents, and Concessions",54000,Revenues,Risk Management
+6841,2025,Finance,12th Street Maint Benefit Area,"Charges, Fees, and Services",18577,Revenues,Other Governmental Funds
+6842,2025,Finance,12th Street Maint Benefit Area,Labor and Supply Offset,1693,Expenses,Other Governmental Funds
+6843,2025,Finance,16th St PBID,"Charges, Fees, and Services",202118,Revenues,Other Governmental Funds
+6844,2025,Finance,16th St PBID,Labor and Supply Offset,2673,Expenses,Other Governmental Funds
+6845,2025,Finance,65th Street Area Impact Fee,Multi-Year Operating Projects,15000,Expenses,Other Governmental Funds
+6846,2025,Finance,Central Midtown Restaurant BID,"Charges, Fees, and Services",242256,Revenues,Other Governmental Funds
+6847,2025,Finance,Central Midtown Restaurant BID,Labor and Supply Offset,2598,Expenses,Other Governmental Funds
+6848,2025,Finance,Central Midtown Restaurant BID,Other Services and Supplies,242256,Expenses,Other Governmental Funds
+6849,2025,Finance,Cty/Cnty Office-Water Planning,Labor and Supply Offset,39000,Expenses,Other Governmental Funds
+6850,2025,Finance,Curtis Park CFD 2013-03,"Charges, Fees, and Services",26500,Revenues,Other Governmental Funds
+6851,2025,Finance,Curtis Park CFD 2013-03,Labor and Supply Offset,2089,Expenses,Other Governmental Funds
+6852,2025,Finance,Del Paso Nuevo Landscaping CFD,"Charges, Fees, and Services",25296,Revenues,Other Governmental Funds
+6853,2025,Finance,Del Paso Nuevo Landscaping CFD,Labor and Supply Offset,2057,Expenses,Other Governmental Funds
+6854,2025,Finance,Del Paso Prop and Business Imprv,"Charges, Fees, and Services",551095,Revenues,Other Governmental Funds
+6855,2025,Finance,Del Paso Prop and Business Imprv,Labor and Supply Offset,2804,Expenses,Other Governmental Funds
+6856,2025,Finance,Delta Shores PF Impact Fees,Multi-Year Operating Projects,2000000,Expenses,Other Governmental Funds
+6857,2025,Finance,Downtown Impact Fee Fund,Multi-Year Operating Projects,50000,Expenses,Other Governmental Funds
+6858,2025,Finance,Downtown Management District,"Charges, Fees, and Services",4198181,Revenues,Other Governmental Funds
+6859,2025,Finance,Downtown Management District,Labor and Supply Offset,3418,Expenses,Other Governmental Funds
+6860,2025,Finance,Franklin Boulevard PBID,"Charges, Fees, and Services",228152,Revenues,Other Governmental Funds
+6861,2025,Finance,Franklin Boulevard PBID,Labor and Supply Offset,2720,Expenses,Other Governmental Funds
+6862,2025,Finance,General Fund,"Charges, Fees, and Services",516369,Revenues,Fund Total
+6863,2025,Finance,General Fund,City Property,44400,Expenses,Fund Total
+6864,2025,Finance,General Fund,Employee Services,13762241,Expenses,Fund Total
+6865,2025,Finance,General Fund,"Fines, Forfeitures, and  Penalties",3000,Revenues,Fund Total
+6866,2025,Finance,General Fund,Intergovernmental,259079,Revenues,Fund Total
+6867,2025,Finance,General Fund,Labor and Supply Offset,-5321616,Expenses,Fund Total
+6868,2025,Finance,General Fund,Licenses and Permits,364000,Revenues,Fund Total
+6869,2025,Finance,General Fund,Miscellaneous Revenue,242126,Revenues,Fund Total
+6870,2025,Finance,General Fund,Other Services and Supplies,1765803,Expenses,Fund Total
+6871,2025,Finance,General Fund,Transfers,64003,Expenses,Fund Total
+6872,2025,Finance,Greater Broadway PBID,"Charges, Fees, and Services",451101,Revenues,Other Governmental Funds
+6873,2025,Finance,Greater Broadway PBID,Labor and Supply Offset,2870,Expenses,Other Governmental Funds
+6874,2025,Finance,Handle BID No 2011-04,"Charges, Fees, and Services",256555,Revenues,Other Governmental Funds
+6875,2025,Finance,Handle BID No 2011-04,Labor and Supply Offset,2598,Expenses,Other Governmental Funds
+6876,2025,Finance,Handle BID No 2011-04,Other Services and Supplies,253957,Expenses,Other Governmental Funds
+6877,2025,Finance,Innovation and Growth Fund,Labor and Supply Offset,175572,Expenses,Other Governmental Funds
+6878,2025,Finance,Interdepartmental Service Fund,Labor and Supply Offset,2864296,Expenses,Other Governmental Funds
+6879,2025,Finance,Laguna Creek Maint Dist,"Charges, Fees, and Services",240219,Revenues,Other Governmental Funds
+6880,2025,Finance,Laguna Creek Maint Dist,Labor and Supply Offset,6013,Expenses,Other Governmental Funds
+6881,2025,Finance,Landscaping and Lighting,"Charges, Fees, and Services",20770012,Revenues,Other Governmental Funds
+6882,2025,Finance,Landscaping and Lighting,Labor and Supply Offset,520361,Expenses,Other Governmental Funds
+6883,2025,Finance,Mack Road PBID,"Charges, Fees, and Services",752038,Revenues,Other Governmental Funds
+6884,2025,Finance,Mack Road PBID,Labor and Supply Offset,2726,Expenses,Other Governmental Funds
+6885,2025,Finance,Midtown Sacramento PBID,"Charges, Fees, and Services",1897592,Revenues,Other Governmental Funds
+6886,2025,Finance,Midtown Sacramento PBID,Labor and Supply Offset,3597,Expenses,Other Governmental Funds
+6887,2025,Finance,N Nat Lndscp 99-02,"Charges, Fees, and Services",755688,Revenues,Other Governmental Funds
+6888,2025,Finance,N Nat Lndscp 99-02,Labor and Supply Offset,22535,Expenses,Other Governmental Funds
+6889,2025,Finance,N Natomas Lands CFD 3,"Charges, Fees, and Services",2885309,Revenues,Other Governmental Funds
+6890,2025,Finance,N Natomas Lands CFD 3,Labor and Supply Offset,72136,Expenses,Other Governmental Funds
+6891,2025,Finance,N Natomas Transp Mgmt Assoc,"Charges, Fees, and Services",2001774,Revenues,Other Governmental Funds
+6892,2025,Finance,N Natomas Transp Mgmt Assoc,Labor and Supply Offset,49137,Expenses,Other Governmental Funds
+6893,2025,Finance,Natomas Crossing CFD 2013-01,"Charges, Fees, and Services",31898,Revenues,Other Governmental Funds
+6894,2025,Finance,Natomas Crossing CFD 2013-01,Labor and Supply Offset,2094,Expenses,Other Governmental Funds
+6895,2025,Finance,Natomas Crossing CFD 2013-01,Other Services and Supplies,0,Expenses,Other Governmental Funds
+6896,2025,Finance,Neighborhood Lighting Dist,"Charges, Fees, and Services",47912,Revenues,Other Governmental Funds
+6897,2025,Finance,Neighborhood Lighting Dist,Labor and Supply Offset,3455,Expenses,Other Governmental Funds
+6898,2025,Finance,Neighborhood Park Maint CFD,"Charges, Fees, and Services",2195282,Revenues,Other Governmental Funds
+6899,2025,Finance,Neighborhood Park Maint CFD,Labor and Supply Offset,54883,Expenses,Other Governmental Funds
+6900,2025,Finance,Neighborhood Water Quality Dist,"Charges, Fees, and Services",88478,Revenues,Other Governmental Funds
+6901,2025,Finance,Neighborhood Water Quality Dist,Labor and Supply Offset,4428,Expenses,Other Governmental Funds
+6902,2025,Finance,NNFP Drainage Fee Fund,Multi-Year Operating Projects,400000,Expenses,Other Governmental Funds
+6903,2025,Finance,NNFP Public Facilities Fee Fund,Multi-Year Operating Projects,150000,Expenses,Other Governmental Funds
+6904,2025,Finance,NNFP Public Land Acquisition Fee,Multi-Year Operating Projects,90000,Expenses,Other Governmental Funds
+6905,2025,Finance,NNFP Reg Park Land Acquisition,Multi-Year Operating Projects,15000,Expenses,Other Governmental Funds
+6906,2025,Finance,NNFP Transit Fee Fund,Multi-Year Operating Projects,15000,Expenses,Other Governmental Funds
+6907,2025,Finance,Northside Subdiv Maint Dist,"Charges, Fees, and Services",16631,Revenues,Other Governmental Funds
+6908,2025,Finance,Northside Subdiv Maint Dist,Labor and Supply Offset,1683,Expenses,Other Governmental Funds
+6909,2025,Finance,NW Land Park CFD 2013-02,"Charges, Fees, and Services",251652,Revenues,Other Governmental Funds
+6910,2025,Finance,NW Land Park CFD 2013-02,Labor and Supply Offset,6211,Expenses,Other Governmental Funds
+6911,2025,Finance,Oak Park PBID,"Charges, Fees, and Services",357386,Revenues,Other Governmental Funds
+6912,2025,Finance,Oak Park PBID,Labor and Supply Offset,2757,Expenses,Other Governmental Funds
+6913,2025,Finance,Old Sacto Maint Dist,"Charges, Fees, and Services",70060,Revenues,Other Governmental Funds
+6914,2025,Finance,Old Sacto Maint Dist,Labor and Supply Offset,3341,Expenses,Other Governmental Funds
+6915,2025,Finance,Parkebridge CFD 2014-07,"Charges, Fees, and Services",237000,Revenues,Other Governmental Funds
+6916,2025,Finance,Parkebridge CFD 2014-07,Labor and Supply Offset,5577,Expenses,Other Governmental Funds
+6917,2025,Finance,Power Inn Area Prop and Business,"Charges, Fees, and Services",615386,Revenues,Other Governmental Funds
+6918,2025,Finance,Power Inn Area Prop and Business,Labor and Supply Offset,3281,Expenses,Other Governmental Funds
+6919,2025,Finance,Power Inn Rd Md 2003-01,"Charges, Fees, and Services",15024,Revenues,Other Governmental Funds
+6920,2025,Finance,Power Inn Rd Md 2003-01,Labor and Supply Offset,1179,Expenses,Other Governmental Funds
+6921,2025,Finance,Railyards Impact Fee Fund,"Charges, Fees, and Services",50000,Revenues,Other Governmental Funds
+6922,2025,Finance,Railyards Impact Fee Fund,Multi-Year Operating Projects,25000,Expenses,Other Governmental Funds
+6923,2025,Finance,Railyards Maint CFD No 2014-04,"Charges, Fees, and Services",250000,Revenues,Other Governmental Funds
+6924,2025,Finance,Railyards Maint CFD No 2014-04,Labor and Supply Offset,5748,Expenses,Other Governmental Funds
+6925,2025,Finance,River District Impact Fee Fund,Multi-Year Operating Projects,125000,Expenses,Other Governmental Funds
+6926,2025,Finance,Sac Services CFD 2018-05,"Charges, Fees, and Services",304172,Revenues,Other Governmental Funds
+6927,2025,Finance,Sac Services CFD 2018-05,Labor and Supply Offset,6909,Expenses,Other Governmental Funds
+6928,2025,Finance,Sac Tourism Marketing District,Labor and Supply Offset,72908,Expenses,Other Governmental Funds
+6929,2025,Finance,SacMaintCFD2014-04 Annex Areas,"Charges, Fees, and Services",277961,Revenues,Other Governmental Funds
+6930,2025,Finance,SacMaintCFD2014-04 Annex Areas,Labor and Supply Offset,10855,Expenses,Other Governmental Funds
+6931,2025,Finance,SacMaintCFD2014-04 Area 01,"Charges, Fees, and Services",309968,Revenues,Other Governmental Funds
+6932,2025,Finance,SacMaintCFD2014-04 Area 01,Labor and Supply Offset,7775,Expenses,Other Governmental Funds
+6933,2025,Finance,Stockton Blvd PBID,"Charges, Fees, and Services",447745,Revenues,Other Governmental Funds
+6934,2025,Finance,Stockton Blvd PBID,Labor and Supply Offset,2792,Expenses,Other Governmental Funds
+6935,2025,Finance,Subdiv Lndscpng Maint Dist,"Charges, Fees, and Services",351473,Revenues,Other Governmental Funds
+6936,2025,Finance,Subdiv Lndscpng Maint Dist,Labor and Supply Offset,14270,Expenses,Other Governmental Funds
+6937,2025,Finance,Sutter Business Imprvmt Area,"Charges, Fees, and Services",220000,Revenues,Other Governmental Funds
+6938,2025,Finance,Sutter Business Imprvmt Area,Other Services and Supplies,220000,Expenses,Other Governmental Funds
+6939,2025,Finance,The River District PBID,"Charges, Fees, and Services",751570,Revenues,Other Governmental Funds
+6940,2025,Finance,The River District PBID,Labor and Supply Offset,2917,Expenses,Other Governmental Funds
+6941,2025,Finance,Township 9 CFD No. 2012-06,"Charges, Fees, and Services",22000,Revenues,Other Governmental Funds
+6942,2025,Finance,Township 9 CFD No. 2012-06,Labor and Supply Offset,1751,Expenses,Other Governmental Funds
+6943,2025,Finance,Village Garden N.-Mtce Dist #1,"Charges, Fees, and Services",40120,Revenues,Other Governmental Funds
+6944,2025,Finance,Village Garden N.-Mtce Dist #1,Labor and Supply Offset,1880,Expenses,Other Governmental Funds
+6945,2025,Finance,Willowcreek Assmnt Md,"Charges, Fees, and Services",90000,Revenues,Other Governmental Funds
+6946,2025,Finance,Willowcreek Assmnt Md,Labor and Supply Offset,4283,Expenses,Other Governmental Funds
+6947,2025,Finance,Willowcreek Lndscpng CFD,"Charges, Fees, and Services",132460,Revenues,Other Governmental Funds
+6948,2025,Finance,Willowcreek Lndscpng CFD,Labor and Supply Offset,5645,Expenses,Other Governmental Funds
+6949,2025,Fire,General Fund,"Charges, Fees, and Services",48701800,Revenues,Fund Total
+6950,2025,Fire,General Fund,City Property,489538,Expenses,Fund Total
+6951,2025,Fire,General Fund,Employee Services,184557488,Expenses,Fund Total
+6952,2025,Fire,General Fund,Intergovernmental,11400000,Revenues,Fund Total
+6953,2025,Fire,General Fund,Labor and Supply Offset,-7566593,Expenses,Fund Total
+6954,2025,Fire,General Fund,Licenses and Permits,3213200,Revenues,Fund Total
+6955,2025,Fire,General Fund,Multi-Year Operating Projects,1286444,Expenses,Fund Total
+6956,2025,Fire,General Fund,Other Services and Supplies,30209909,Expenses,Fund Total
+6957,2025,Fire,Measure U Fund,City Property,32500,Expenses,Fund Total
+6958,2025,Fire,Measure U Fund,Employee Services,2890457,Expenses,Fund Total
+6959,2025,Fire,Measure U Fund,Labor and Supply Offset,6368957,Expenses,Fund Total
+6960,2025,Fire,Measure U Fund,Other Services and Supplies,1038554,Expenses,Fund Total
+6961,2025,Fire,Risk Mgmt Fund,Labor and Supply Offset,500000,Expenses,Risk Management
+6962,2025,Human Resources,Fleet Management Fund,Labor and Supply Offset,16000,Expenses,Internal Service Funds
+6963,2025,Human Resources,General Fund,"Charges, Fees, and Services",80000,Revenues,Fund Total
+6964,2025,Human Resources,General Fund,City Property,10200,Expenses,Fund Total
+6965,2025,Human Resources,General Fund,Employee Services,7081241,Expenses,Fund Total
+6966,2025,Human Resources,General Fund,Labor and Supply Offset,-2434297,Expenses,Fund Total
+6967,2025,Human Resources,General Fund,Multi-Year Operating Projects,82250,Expenses,Fund Total
+6968,2025,Human Resources,General Fund,Other Services and Supplies,904281,Expenses,Fund Total
+6969,2025,Human Resources,Interdepartmental Service Fund,Labor and Supply Offset,1763967,Expenses,Other Governmental Funds
+6970,2025,Human Resources,Marina Fund,Labor and Supply Offset,4000,Expenses,Other Governmental Funds
+6971,2025,Human Resources,Measure U Fund,Employee Services,483285,Expenses,Fund Total
+6972,2025,Human Resources,Measure U Fund,Other Services and Supplies,20000,Expenses,Fund Total
+6973,2025,Human Resources,Parking Fund,Labor and Supply Offset,4000,Expenses,Enterprise Funds
+6974,2025,Human Resources,Recycling and Solid Waste,Labor and Supply Offset,168606,Expenses,Enterprise Funds
+6975,2025,Human Resources,Risk Mgmt Fund,"Charges, Fees, and Services",250000,Revenues,Risk Management
+6976,2025,Human Resources,Risk Mgmt Fund,City Property,15500,Expenses,Risk Management
+6977,2025,Human Resources,Risk Mgmt Fund,Employee Services,3217633,Expenses,Risk Management
+6978,2025,Human Resources,Risk Mgmt Fund,Labor and Supply Offset,1687640,Expenses,Risk Management
+6979,2025,Human Resources,Risk Mgmt Fund,Miscellaneous Revenue,52304997,Revenues,Risk Management
+6980,2025,Human Resources,Risk Mgmt Fund,Multi-Year Operating Projects,100000,Expenses,Risk Management
+6981,2025,Human Resources,Risk Mgmt Fund,Other Services and Supplies,45010920,Expenses,Risk Management
+6982,2025,Human Resources,Worker's Compensation Fund,City Property,17500,Expenses,Risk Management
+6983,2025,Human Resources,Worker's Compensation Fund,Employee Services,2904004,Expenses,Risk Management
+6984,2025,Human Resources,Worker's Compensation Fund,Labor and Supply Offset,653379,Expenses,Risk Management
+6985,2025,Human Resources,Worker's Compensation Fund,Miscellaneous Revenue,18163000,Revenues,Risk Management
+6986,2025,Human Resources,Worker's Compensation Fund,Other Services and Supplies,15339342,Expenses,Risk Management
+6987,2025,Information Technology,4th R Program,Labor and Supply Offset,16000,Expenses,Other Governmental Funds
+6988,2025,Information Technology,Gas Tax 2106,Labor and Supply Offset,14978,Expenses,Other Governmental Funds
+6989,2025,Information Technology,Gas Tax 2106,Transfers,173828,Expenses,Other Governmental Funds
+6990,2025,Information Technology,General Fund,City Property,369195,Expenses,Fund Total
+6991,2025,Information Technology,General Fund,Employee Services,34243986,Expenses,Fund Total
+6992,2025,Information Technology,General Fund,Intergovernmental,400000,Revenues,Fund Total
+6993,2025,Information Technology,General Fund,Labor and Supply Offset,-7985760,Expenses,Fund Total
+6994,2025,Information Technology,General Fund,Multi-Year Operating Projects,318000,Expenses,Fund Total
+6995,2025,Information Technology,General Fund,Other Services and Supplies,2294813,Expenses,Fund Total
+6996,2025,Information Technology,General Fund,Transfers,-7892883,Expenses,Fund Total
+6997,2025,Information Technology,Interdepartmental Service Fund,Labor and Supply Offset,6466909,Expenses,Other Governmental Funds
+6998,2025,Information Technology,Measure U Fund,Labor and Supply Offset,431819,Expenses,Fund Total
+6999,2025,Information Technology,Measure U Fund,Multi-Year Operating Projects,200000,Expenses,Fund Total
+7000,2025,Information Technology,Measure U Fund,Other Services and Supplies,120000,Expenses,Fund Total
+7001,2025,Information Technology,Parking Fund,Labor and Supply Offset,1590,Expenses,Enterprise Funds
+7002,2025,Information Technology,Parking Fund,Transfers,18449,Expenses,Enterprise Funds
+7003,2025,Information Technology,Recycling and Solid Waste,Labor and Supply Offset,106998,Expenses,Enterprise Funds
+7004,2025,Information Technology,Recycling and Solid Waste,Transfers,2454133,Expenses,Enterprise Funds
+7005,2025,Information Technology,START Fund,Labor and Supply Offset,5000,Expenses,Other Governmental Funds
+7006,2025,Information Technology,Storm Drainage Fund,Labor and Supply Offset,2861,Expenses,Enterprise Funds
+7007,2025,Information Technology,Storm Drainage Fund,Transfers,1207430,Expenses,Enterprise Funds
+7008,2025,Information Technology,Wastewater Fund,Labor and Supply Offset,3321,Expenses,Enterprise Funds
+7009,2025,Information Technology,Wastewater Fund,Transfers,1158567,Expenses,Enterprise Funds
+7010,2025,Information Technology,Water Fund,Labor and Supply Offset,10350,Expenses,Enterprise Funds
+7011,2025,Information Technology,Water Fund,Transfers,1892099,Expenses,Enterprise Funds
+7012,2025,Information Technology,Worker's Compensation Fund,Transfers,195301,Expenses,Risk Management
+7013,2025,Mayor/Council,General Fund,Employee Services,6535487,Expenses,Fund Total
+7014,2025,Mayor/Council,General Fund,Labor and Supply Offset,-1561624,Expenses,Fund Total
+7015,2025,Mayor/Council,General Fund,Other Services and Supplies,971308,Expenses,Fund Total
+7016,2025,Mayor/Council,Interdepartmental Service Fund,Labor and Supply Offset,1440510,Expenses,Other Governmental Funds
+7017,2025,Mayor/Council,Measure U Fund,City Property,2000,Expenses,Fund Total
+7018,2025,Mayor/Council,Measure U Fund,Employee Services,1824282,Expenses,Fund Total
+7019,2025,Mayor/Council,Measure U Fund,Multi-Year Operating Projects,4950,Expenses,Fund Total
+7020,2025,Mayor/Council,Measure U Fund,Other Services and Supplies,49250,Expenses,Fund Total
+7021,2025,Non-Appropriated,Delta Shores PF Impact Fees,Licenses and Permits,500000,Revenues,Other Governmental Funds
+7022,2025,Non-Appropriated,Delta Shores PF Impact Fees,Other Services and Supplies,500000,Expenses,Other Governmental Funds
+7023,2025,Non-Appropriated,Interdepartmental Service Fund,Labor and Supply Offset,-24127942,Expenses,Other Governmental Funds
+7024,2025,Non-Appropriated,NNFP Drainage Fee Fund,Licenses and Permits,325000,Revenues,Other Governmental Funds
+7025,2025,Office of the City Auditor,General Fund,City Property,5000,Expenses,Fund Total
+7026,2025,Office of the City Auditor,General Fund,Employee Services,1900098,Expenses,Fund Total
+7027,2025,Office of the City Auditor,General Fund,Labor and Supply Offset,-627844,Expenses,Fund Total
+7028,2025,Office of the City Auditor,General Fund,Other Services and Supplies,163581,Expenses,Fund Total
+7029,2025,Office of the City Auditor,General Fund,Transfers,-163358,Expenses,Fund Total
+7030,2025,Office of the City Auditor,Interdepartmental Service Fund,Labor and Supply Offset,440589,Expenses,Other Governmental Funds
+7031,2025,Office of the City Auditor,Storm Drainage Fund,Transfers,29404,Expenses,Enterprise Funds
+7032,2025,Office of the City Auditor,Wastewater Fund,Transfers,32672,Expenses,Enterprise Funds
+7033,2025,Office of the City Auditor,Water Fund,Transfers,101282,Expenses,Enterprise Funds
+7034,2025,Police,General Fund,"Charges, Fees, and Services",8554619,Revenues,Fund Total
+7035,2025,Police,General Fund,City Property,513119,Expenses,Fund Total
+7036,2025,Police,General Fund,Employee Services,223415255,Expenses,Fund Total
+7037,2025,Police,General Fund,"Fines, Forfeitures, and  Penalties",339122,Revenues,Fund Total
+7038,2025,Police,General Fund,Intergovernmental,-959939,Revenues,Fund Total
+7039,2025,Police,General Fund,Labor and Supply Offset,-3938211,Expenses,Fund Total
+7040,2025,Police,General Fund,Licenses and Permits,1114700,Revenues,Fund Total
+7041,2025,Police,General Fund,Multi-Year Operating Projects,5621943,Expenses,Fund Total
+7042,2025,Police,General Fund,Other Services and Supplies,13195513,Expenses,Fund Total
+7043,2025,Police,Measure U Fund,Employee Services,7415806,Expenses,Fund Total
+7044,2025,Police,Measure U Fund,Multi-Year Operating Projects,3657065,Expenses,Fund Total
+7045,2025,Police,Measure U Fund,Other Services and Supplies,402437,Expenses,Fund Total
+7046,2025,Police,Risk Mgmt Fund,Labor and Supply Offset,573723,Expenses,Risk Management
+7047,2025,Public Works,12th Street Maint Benefit Area,Labor and Supply Offset,19860,Expenses,Other Governmental Funds
+7048,2025,Public Works,Citation I-5 Maintenance,Labor and Supply Offset,40000,Expenses,Other Governmental Funds
+7049,2025,Public Works,Del Paso Nuevo Landscaping CFD,Labor and Supply Offset,24700,Expenses,Other Governmental Funds
+7050,2025,Public Works,Fleet Management Fund,"Charges, Fees, and Services",10082745,Revenues,Internal Service Funds
+7051,2025,Public Works,Fleet Management Fund,City Property,27927954,Expenses,Internal Service Funds
+7052,2025,Public Works,Fleet Management Fund,Employee Services,9818210,Expenses,Internal Service Funds
+7053,2025,Public Works,Fleet Management Fund,"Interest, Rents, and Concessions",897197,Revenues,Internal Service Funds
+7054,2025,Public Works,Fleet Management Fund,Labor and Supply Offset,2625510,Expenses,Internal Service Funds
+7055,2025,Public Works,Fleet Management Fund,Miscellaneous Revenue,56499623,Revenues,Internal Service Funds
+7056,2025,Public Works,Fleet Management Fund,Multi-Year Operating Projects,115000,Expenses,Internal Service Funds
+7057,2025,Public Works,Fleet Management Fund,Other Services and Supplies,25313741,Expenses,Internal Service Funds
+7058,2025,Public Works,Gas Tax 2106,Intergovernmental,14038000,Revenues,Other Governmental Funds
+7059,2025,Public Works,Gas Tax 2106,Labor and Supply Offset,6953893,Expenses,Other Governmental Funds
+7060,2025,Public Works,Gas Tax 2106,Multi-Year Operating Projects,4626079,Expenses,Other Governmental Funds
+7061,2025,Public Works,General Fund,"Charges, Fees, and Services",20411377,Revenues,Fund Total
+7062,2025,Public Works,General Fund,City Property,464132,Expenses,Fund Total
+7063,2025,Public Works,General Fund,Employee Services,60470218,Expenses,Fund Total
+7064,2025,Public Works,General Fund,"Fines, Forfeitures, and  Penalties",7060750,Revenues,Fund Total
+7065,2025,Public Works,General Fund,"Interest, Rents, and Concessions",260000,Revenues,Fund Total
+7066,2025,Public Works,General Fund,Intergovernmental,286450,Revenues,Fund Total
+7067,2025,Public Works,General Fund,Labor and Supply Offset,-78223054,Expenses,Fund Total
+7068,2025,Public Works,General Fund,Licenses and Permits,206000,Revenues,Fund Total
+7069,2025,Public Works,General Fund,Multi-Year Operating Projects,2286524,Expenses,Fund Total
+7070,2025,Public Works,General Fund,Operating Transfers,5300000,Expenses,Fund Total
+7071,2025,Public Works,General Fund,Other Services and Supplies,37513109,Expenses,Fund Total
+7072,2025,Public Works,General Fund,Transfers,400655,Expenses,Fund Total
+7073,2025,Public Works,Interdepartmental Service Fund,Labor and Supply Offset,1901512,Expenses,Other Governmental Funds
+7074,2025,Public Works,Laguna Creek Maint Dist,Labor and Supply Offset,51580,Expenses,Other Governmental Funds
+7075,2025,Public Works,Land Park,Labor and Supply Offset,32850,Expenses,Other Governmental Funds
+7076,2025,Public Works,Landscaping and Lighting,Labor and Supply Offset,14824772,Expenses,Other Governmental Funds
+7077,2025,Public Works,Landscaping and Lighting,Multi-Year Operating Projects,415000,Expenses,Other Governmental Funds
+7078,2025,Public Works,Major Street Construction Fund,Taxes,2430000,Revenues,Other Governmental Funds
+7079,2025,Public Works,Marina Fund,"Charges, Fees, and Services",301000,Revenues,Other Governmental Funds
+7080,2025,Public Works,Marina Fund,Employee Services,576365,Expenses,Other Governmental Funds
+7081,2025,Public Works,Marina Fund,Intergovernmental,25000,Revenues,Other Governmental Funds
+7082,2025,Public Works,Marina Fund,Labor and Supply Offset,1500,Expenses,Other Governmental Funds
+7083,2025,Public Works,Marina Fund,Licenses and Permits,1550075,Revenues,Other Governmental Funds
+7084,2025,Public Works,Marina Fund,Other Services and Supplies,564182,Expenses,Other Governmental Funds
+7085,2025,Public Works,Measure U Fund,Employee Services,655601,Expenses,Fund Total
+7086,2025,Public Works,Measure U Fund,Labor and Supply Offset,-133015,Expenses,Fund Total
+7087,2025,Public Works,Measure U Fund,Multi-Year Operating Projects,1270000,Expenses,Fund Total
+7088,2025,Public Works,Measure U Fund,Other Services and Supplies,39905,Expenses,Fund Total
+7089,2025,Public Works,N Nat Lndscp 99-02,Labor and Supply Offset,754301,Expenses,Other Governmental Funds
+7090,2025,Public Works,N Natomas Lands CFD 3,Labor and Supply Offset,733750,Expenses,Other Governmental Funds
+7091,2025,Public Works,Neighborhood Lighting Dist,Labor and Supply Offset,27510,Expenses,Other Governmental Funds
+7092,2025,Public Works,Neighborhood Water Quality Dist,Labor and Supply Offset,63215,Expenses,Other Governmental Funds
+7093,2025,Public Works,New Measure A Maintenance,Labor and Supply Offset,17829804,Expenses,Other Governmental Funds
+7094,2025,Public Works,New Measure A Maintenance,Taxes,16470000,Revenues,Other Governmental Funds
+7095,2025,Public Works,"NMA Safety, Streets, Ped, Bic",Multi-Year Operating Projects,5500,Expenses,Other Governmental Funds
+7096,2025,Public Works,"NMA Safety, Streets, Ped, Bic",Taxes,2387000,Revenues,Other Governmental Funds
+7097,2025,Public Works,NMA Traffic Control and Safety,Taxes,1619000,Revenues,Other Governmental Funds
+7098,2025,Public Works,Northside Subdiv Maint Dist,Labor and Supply Offset,6500,Expenses,Other Governmental Funds
+7099,2025,Public Works,Parkebridge CFD 2014-07,Labor and Supply Offset,88330,Expenses,Other Governmental Funds
+7100,2025,Public Works,Parking Fund,"Charges, Fees, and Services",18052000,Revenues,Enterprise Funds
+7101,2025,Public Works,Parking Fund,City Property,30097,Expenses,Enterprise Funds
+7102,2025,Public Works,Parking Fund,Employee Services,5257763,Expenses,Enterprise Funds
+7103,2025,Public Works,Parking Fund,"Interest, Rents, and Concessions",660000,Revenues,Enterprise Funds
+7104,2025,Public Works,Parking Fund,Labor and Supply Offset,1793354,Expenses,Enterprise Funds
+7105,2025,Public Works,Parking Fund,Miscellaneous Revenue,40000,Revenues,Enterprise Funds
+7106,2025,Public Works,Parking Fund,Multi-Year Operating Projects,321000,Expenses,Enterprise Funds
+7107,2025,Public Works,Parking Fund,Operating Transfers,-3507700,Expenses,Enterprise Funds
+7108,2025,Public Works,Parking Fund,Other Services and Supplies,4778310,Expenses,Enterprise Funds
+7109,2025,Public Works,Power Inn Rd Md 2003-01,Labor and Supply Offset,11732,Expenses,Other Governmental Funds
+7110,2025,Public Works,Railyards Maint CFD No 2014-04,Labor and Supply Offset,226520,Expenses,Other Governmental Funds
+7111,2025,Public Works,Recycling and Solid Waste,"Charges, Fees, and Services",96045326,Revenues,Enterprise Funds
+7112,2025,Public Works,Recycling and Solid Waste,City Property,25000,Expenses,Enterprise Funds
+7113,2025,Public Works,Recycling and Solid Waste,Employee Services,23110160,Expenses,Enterprise Funds
+7114,2025,Public Works,Recycling and Solid Waste,Intergovernmental,32500,Revenues,Enterprise Funds
+7115,2025,Public Works,Recycling and Solid Waste,Labor and Supply Offset,2570424,Expenses,Enterprise Funds
+7116,2025,Public Works,Recycling and Solid Waste,Multi-Year Operating Projects,8873700,Expenses,Enterprise Funds
+7117,2025,Public Works,Recycling and Solid Waste,Operating Transfers,10504200,Expenses,Enterprise Funds
+7118,2025,Public Works,Recycling and Solid Waste,Other Services and Supplies,39798047,Expenses,Enterprise Funds
+7119,2025,Public Works,Road Maint and Rehabilitation,Intergovernmental,13111000,Revenues,Other Governmental Funds
+7120,2025,Public Works,Sac Services CFD 2018-05,Labor and Supply Offset,42758,Expenses,Other Governmental Funds
+7121,2025,Public Works,SacMaintCFD2014-04 Annex Areas,Labor and Supply Offset,133713,Expenses,Other Governmental Funds
+7122,2025,Public Works,SacMaintCFD2014-04 Area 01,Labor and Supply Offset,132750,Expenses,Other Governmental Funds
+7123,2025,Public Works,Storm Drainage Fund,Labor and Supply Offset,461850,Expenses,Enterprise Funds
+7124,2025,Public Works,Subdiv Lndscpng Maint Dist,Labor and Supply Offset,356147,Expenses,Other Governmental Funds
+7125,2025,Public Works,Township 9 CFD No. 2012-06,Labor and Supply Offset,2000,Expenses,Other Governmental Funds
+7126,2025,Public Works,Traffic Safety Fund,"Fines, Forfeitures, and  Penalties",300000,Revenues,Other Governmental Funds
+7127,2025,Public Works,Traffic Safety Fund,Labor and Supply Offset,306882,Expenses,Other Governmental Funds
+7128,2025,Public Works,Transportation Development,Taxes,590000,Revenues,Other Governmental Funds
+7129,2025,Public Works,Transportation Development Impact Fee,Licenses and Permits,2000000,Revenues,Other Governmental Funds
+7130,2025,Public Works,Tree Planting Replacement,Licenses and Permits,120000,Revenues,Other Governmental Funds
+7131,2025,Public Works,Trench Cut Fee Fund,Licenses and Permits,25125,Revenues,Other Governmental Funds
+7132,2025,Public Works,Village Garden N.-Mtce Dist #1,Labor and Supply Offset,34558,Expenses,Other Governmental Funds
+7133,2025,Public Works,Wastewater Fund,Labor and Supply Offset,55850,Expenses,Enterprise Funds
+7134,2025,Public Works,Water Fund,Labor and Supply Offset,55849,Expenses,Enterprise Funds
+7135,2025,Public Works,Willowcreek Assmnt Md,Labor and Supply Offset,38000,Expenses,Other Governmental Funds
+7136,2025,Public Works,Willowcreek Lndscpng CFD,Labor and Supply Offset,125000,Expenses,Other Governmental Funds
+7137,2025,Utilities,Community Center Fund,Labor and Supply Offset,4983,Expenses,Enterprise Funds
+7138,2025,Utilities,Cty/Cnty Office-Water Planning,City Property,5000,Expenses,Other Governmental Funds
+7139,2025,Utilities,Cty/Cnty Office-Water Planning,Employee Services,1127372,Expenses,Other Governmental Funds
+7140,2025,Utilities,Cty/Cnty Office-Water Planning,Intergovernmental,972074,Revenues,Other Governmental Funds
+7141,2025,Utilities,Cty/Cnty Office-Water Planning,Labor and Supply Offset,-495286,Expenses,Other Governmental Funds
+7142,2025,Utilities,Cty/Cnty Office-Water Planning,Operating Transfers,-383854,Expenses,Other Governmental Funds
+7143,2025,Utilities,Cty/Cnty Office-Water Planning,Other Services and Supplies,231281,Expenses,Other Governmental Funds
+7144,2025,Utilities,Cty/Cnty Office-Water Planning,Transfers,-100000,Expenses,Other Governmental Funds
+7145,2025,Utilities,General Fund,Labor and Supply Offset,60410,Expenses,Fund Total
+7146,2025,Utilities,General Fund,Transfers,19000,Expenses,Fund Total
+7147,2025,Utilities,Golf Fund,Labor and Supply Offset,8550,Expenses,Other Governmental Funds
+7148,2025,Utilities,Habitat Management Element,Intergovernmental,553011,Revenues,Other Governmental Funds
+7149,2025,Utilities,Habitat Management Element,Labor and Supply Offset,495286,Expenses,Other Governmental Funds
+7150,2025,Utilities,Habitat Management Element,Operating Transfers,-266505,Expenses,Other Governmental Funds
+7151,2025,Utilities,Habitat Management Element,Other Services and Supplies,445000,Expenses,Other Governmental Funds
+7152,2025,Utilities,Landscaping and Lighting,Labor and Supply Offset,98000,Expenses,Other Governmental Funds
+7153,2025,Utilities,N Natomas Lands CFD 3,Labor and Supply Offset,300000,Expenses,Other Governmental Funds
+7154,2025,Utilities,Neighborhood Water Quality Dist,Labor and Supply Offset,3000,Expenses,Other Governmental Funds
+7155,2025,Utilities,Northside Subdiv Maint Dist,Labor and Supply Offset,8000,Expenses,Other Governmental Funds
+7156,2025,Utilities,Parkebridge CFD 2014-07,Labor and Supply Offset,10000,Expenses,Other Governmental Funds
+7157,2025,Utilities,Parking Fund,Labor and Supply Offset,1359,Expenses,Enterprise Funds
+7158,2025,Utilities,Recycling and Solid Waste,Labor and Supply Offset,3465053,Expenses,Enterprise Funds
+7159,2025,Utilities,SacMaintCFD2014-04 Annex Areas,Labor and Supply Offset,36500,Expenses,Other Governmental Funds
+7160,2025,Utilities,SacMaintCFD2014-04 Area 01,Labor and Supply Offset,298120,Expenses,Other Governmental Funds
+7161,2025,Utilities,Storm Drainage Fund,"Charges, Fees, and Services",40225231,Revenues,Enterprise Funds
+7162,2025,Utilities,Storm Drainage Fund,City Property,39551,Expenses,Enterprise Funds
+7163,2025,Utilities,Storm Drainage Fund,Employee Services,20117149,Expenses,Enterprise Funds
+7164,2025,Utilities,Storm Drainage Fund,"Fines, Forfeitures, and  Penalties",400000,Revenues,Enterprise Funds
+7165,2025,Utilities,Storm Drainage Fund,"Interest, Rents, and Concessions",0,Revenues,Enterprise Funds
+7166,2025,Utilities,Storm Drainage Fund,Intergovernmental,0,Revenues,Enterprise Funds
+7167,2025,Utilities,Storm Drainage Fund,Labor and Supply Offset,5146017,Expenses,Enterprise Funds
+7168,2025,Utilities,Storm Drainage Fund,Licenses and Permits,85000,Revenues,Enterprise Funds
+7169,2025,Utilities,Storm Drainage Fund,Multi-Year Operating Projects,2303188,Expenses,Enterprise Funds
+7170,2025,Utilities,Storm Drainage Fund,Operating Transfers,4400000,Expenses,Enterprise Funds
+7171,2025,Utilities,Storm Drainage Fund,Other Services and Supplies,9567606,Expenses,Enterprise Funds
+7172,2025,Utilities,Storm Drainage Fund,Transfers,-328000,Expenses,Enterprise Funds
+7173,2025,Utilities,Storm Drainage Property Fee,"Charges, Fees, and Services",20000000,Revenues,Enterprise Funds
+7174,2025,Utilities,Storm Drainage Property Fee,"Fines, Forfeitures, and  Penalties",150000,Revenues,Enterprise Funds
+7175,2025,Utilities,Storm Drainage Property Fee,Labor and Supply Offset,896909,Expenses,Enterprise Funds
+7176,2025,Utilities,Storm Drainage Property Fee,Multi-Year Operating Projects,2250000,Expenses,Enterprise Funds
+7177,2025,Utilities,Storm Drainage Property Fee,Operating Transfers,2177700,Expenses,Enterprise Funds
+7178,2025,Utilities,Storm Drainage Property Fee,Other Services and Supplies,202500,Expenses,Enterprise Funds
+7179,2025,Utilities,Township 9 CFD No. 2012-06,Labor and Supply Offset,9000,Expenses,Other Governmental Funds
+7180,2025,Utilities,Wastewater Fund,"Charges, Fees, and Services",42954000,Revenues,Enterprise Funds
+7181,2025,Utilities,Wastewater Fund,City Property,1000,Expenses,Enterprise Funds
+7182,2025,Utilities,Wastewater Fund,Employee Services,14388060,Expenses,Enterprise Funds
+7183,2025,Utilities,Wastewater Fund,"Fines, Forfeitures, and  Penalties",820000,Revenues,Enterprise Funds
+7184,2025,Utilities,Wastewater Fund,Intergovernmental,1350000,Revenues,Enterprise Funds
+7185,2025,Utilities,Wastewater Fund,Labor and Supply Offset,6884699,Expenses,Enterprise Funds
+7186,2025,Utilities,Wastewater Fund,Multi-Year Operating Projects,2858588,Expenses,Enterprise Funds
+7187,2025,Utilities,Wastewater Fund,Operating Transfers,4669400,Expenses,Enterprise Funds
+7188,2025,Utilities,Wastewater Fund,Other Services and Supplies,6839148,Expenses,Enterprise Funds
+7189,2025,Utilities,Wastewater Fund,Transfers,695000,Expenses,Enterprise Funds
+7190,2025,Utilities,Water Fund,"Charges, Fees, and Services",133715584,Revenues,Enterprise Funds
+7191,2025,Utilities,Water Fund,City Property,2168402,Expenses,Enterprise Funds
+7192,2025,Utilities,Water Fund,Employee Services,54802098,Expenses,Enterprise Funds
+7193,2025,Utilities,Water Fund,"Fines, Forfeitures, and  Penalties",1200000,Revenues,Enterprise Funds
+7194,2025,Utilities,Water Fund,Intergovernmental,1660000,Revenues,Enterprise Funds
+7195,2025,Utilities,Water Fund,Labor and Supply Offset,-11815948,Expenses,Enterprise Funds
+7196,2025,Utilities,Water Fund,Licenses and Permits,55000,Revenues,Enterprise Funds
+7197,2025,Utilities,Water Fund,Multi-Year Operating Projects,3631532,Expenses,Enterprise Funds
+7198,2025,Utilities,Water Fund,Operating Transfers,15079159,Expenses,Enterprise Funds
+7199,2025,Utilities,Water Fund,Other Services and Supplies,31360468,Expenses,Enterprise Funds
+7200,2025,Utilities,Water Fund,Transfers,-286000,Expenses,Enterprise Funds
+7201,2025,Utilities,Willowcreek Assmnt Md,Labor and Supply Offset,20774,Expenses,Other Governmental Funds
+7202,2025,"Youth, Parks, and Community Enrichment",4th R Program,"Charges, Fees, and Services",5374178,Revenues,Other Governmental Funds
+7203,2025,"Youth, Parks, and Community Enrichment",4th R Program,City Property,142467,Expenses,Other Governmental Funds
+7204,2025,"Youth, Parks, and Community Enrichment",4th R Program,Employee Services,1943083,Expenses,Other Governmental Funds
+7205,2025,"Youth, Parks, and Community Enrichment",4th R Program,Intergovernmental,20200,Revenues,Other Governmental Funds
+7206,2025,"Youth, Parks, and Community Enrichment",4th R Program,Labor and Supply Offset,100,Expenses,Other Governmental Funds
+7207,2025,"Youth, Parks, and Community Enrichment",4th R Program,Miscellaneous Revenue,12000,Revenues,Other Governmental Funds
+7208,2025,"Youth, Parks, and Community Enrichment",4th R Program,Other Services and Supplies,3283292,Expenses,Other Governmental Funds
+7209,2025,"Youth, Parks, and Community Enrichment",General Fund,"Charges, Fees, and Services",5688250,Revenues,Fund Total
+7210,2025,"Youth, Parks, and Community Enrichment",General Fund,City Property,3000,Expenses,Fund Total
+7211,2025,"Youth, Parks, and Community Enrichment",General Fund,Employee Services,2138622,Expenses,Fund Total
+7212,2025,"Youth, Parks, and Community Enrichment",General Fund,Intergovernmental,198014,Revenues,Fund Total
+7213,2025,"Youth, Parks, and Community Enrichment",General Fund,Labor and Supply Offset,3413014,Expenses,Fund Total
+7214,2025,"Youth, Parks, and Community Enrichment",General Fund,Licenses and Permits,490261,Revenues,Fund Total
+7215,2025,"Youth, Parks, and Community Enrichment",General Fund,Multi-Year Operating Projects,88936,Expenses,Fund Total
+7216,2025,"Youth, Parks, and Community Enrichment",General Fund,Operating Transfers,0,Expenses,Fund Total
+7217,2025,"Youth, Parks, and Community Enrichment",General Fund,Other Services and Supplies,100689,Expenses,Fund Total
+7218,2025,"Youth, Parks, and Community Enrichment",Golf Fund,"Charges, Fees, and Services",750000,Revenues,Other Governmental Funds
+7219,2025,"Youth, Parks, and Community Enrichment",Golf Fund,Labor and Supply Offset,98844,Expenses,Other Governmental Funds
+7220,2025,"Youth, Parks, and Community Enrichment",Golf Fund,Miscellaneous Revenue,65900,Revenues,Other Governmental Funds
+7221,2025,"Youth, Parks, and Community Enrichment",Golf Fund,Operating Transfers,-250000,Expenses,Other Governmental Funds
+7222,2025,"Youth, Parks, and Community Enrichment",Golf Fund,Other Services and Supplies,72788,Expenses,Other Governmental Funds
+7223,2025,"Youth, Parks, and Community Enrichment",Laguna Creek Maint Dist,Labor and Supply Offset,129707,Expenses,Other Governmental Funds
+7224,2025,"Youth, Parks, and Community Enrichment",Land Park,"Charges, Fees, and Services",22900,Revenues,Other Governmental Funds
+7225,2025,"Youth, Parks, and Community Enrichment",Land Park,Transfers,89000,Expenses,Other Governmental Funds
+7226,2025,"Youth, Parks, and Community Enrichment",Landscaping and Lighting,Labor and Supply Offset,4440000,Expenses,Other Governmental Funds
+7227,2025,"Youth, Parks, and Community Enrichment",Measure U Fund,City Property,81023,Expenses,Fund Total
+7228,2025,"Youth, Parks, and Community Enrichment",Measure U Fund,Employee Services,41501126,Expenses,Fund Total
+7229,2025,"Youth, Parks, and Community Enrichment",Measure U Fund,Labor and Supply Offset,-15562138,Expenses,Fund Total
+7230,2025,"Youth, Parks, and Community Enrichment",Measure U Fund,Multi-Year Operating Projects,1784600,Expenses,Fund Total
+7231,2025,"Youth, Parks, and Community Enrichment",Measure U Fund,Operating Transfers,250000,Expenses,Fund Total
+7232,2025,"Youth, Parks, and Community Enrichment",Measure U Fund,Other Services and Supplies,17590851,Expenses,Fund Total
+7233,2025,"Youth, Parks, and Community Enrichment",Measure U Fund,Transfers,-89000,Expenses,Fund Total
+7234,2025,"Youth, Parks, and Community Enrichment",N Natomas Lands CFD 3,Labor and Supply Offset,1890000,Expenses,Other Governmental Funds
+7235,2025,"Youth, Parks, and Community Enrichment",Neighborhood Park Maint CFD,Labor and Supply Offset,2232000,Expenses,Other Governmental Funds
+7236,2025,"Youth, Parks, and Community Enrichment",Neighborhood Water Quality Dist,Labor and Supply Offset,31101,Expenses,Other Governmental Funds
+7237,2025,"Youth, Parks, and Community Enrichment",NW Land Park CFD 2013-02,Labor and Supply Offset,247022,Expenses,Other Governmental Funds
+7238,2025,"Youth, Parks, and Community Enrichment",Park Development Fund,City Property,50000,Expenses,Other Governmental Funds
+7239,2025,"Youth, Parks, and Community Enrichment",Park Development Fund,Intergovernmental,596668,Revenues,Other Governmental Funds
+7240,2025,"Youth, Parks, and Community Enrichment",Park Development Fund,Labor and Supply Offset,773641,Expenses,Other Governmental Funds
+7241,2025,"Youth, Parks, and Community Enrichment",Park Development Fund,Licenses and Permits,229469,Revenues,Other Governmental Funds
+7242,2025,"Youth, Parks, and Community Enrichment",Park Development Fund,Operating Transfers,0,Expenses,Other Governmental Funds
+7243,2025,"Youth, Parks, and Community Enrichment",Parkebridge CFD 2014-07,Labor and Supply Offset,57000,Expenses,Other Governmental Funds
+7244,2025,"Youth, Parks, and Community Enrichment",Quimby Act Fund,Other Services and Supplies,10000,Expenses,Other Governmental Funds
+7245,2025,"Youth, Parks, and Community Enrichment",Railyards Maint CFD No 2014-04,Labor and Supply Offset,7500,Expenses,Other Governmental Funds
+7246,2025,"Youth, Parks, and Community Enrichment",Sac Services CFD 2018-05,Labor and Supply Offset,150000,Expenses,Other Governmental Funds
+7247,2025,"Youth, Parks, and Community Enrichment",SacMaintCFD2014-04 Annex Areas,Labor and Supply Offset,1200,Expenses,Other Governmental Funds
+7248,2025,"Youth, Parks, and Community Enrichment",START Fund,Employee Services,193114,Expenses,Other Governmental Funds
+7249,2025,"Youth, Parks, and Community Enrichment",START Fund,Intergovernmental,657759,Revenues,Other Governmental Funds
+7250,2025,"Youth, Parks, and Community Enrichment",START Fund,Labor and Supply Offset,25,Expenses,Other Governmental Funds
+7251,2025,"Youth, Parks, and Community Enrichment",START Fund,Other Services and Supplies,193063,Expenses,Other Governmental Funds
+7252,2025,"Youth, Parks, and Community Enrichment",Township 9 CFD No. 2012-06,Labor and Supply Offset,2000,Expenses,Other Governmental Funds
