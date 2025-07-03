@@ -1,15 +1,14 @@
-FROM node:16
+FROM node:24
 
-WORKDIR /app
+WORKDIR /home/node/app
 
 COPY _src/package*.json ./
-
 RUN npm install --force
 
 COPY _src .
 
-RUN npm run build
+USER node
 
 EXPOSE 8011
 
-CMD ["npx", "@11ty/eleventy", "--serve", "--port=8011"]
+CMD ["npm", "run", "serve"]
