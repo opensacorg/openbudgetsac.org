@@ -5,4 +5,11 @@ services:
     ports:
       - '8011:8011'
     volumes:
-      - "./:/usr/src/app"
+      - "./_src:/home/node/app"
+    environment:
+      - NODE_ENV=development
+      - ELEVENTY_ENV=development
+    command: bash -c "npm install --force && npm run serve"
+    # Enable proper file watching in Docker
+    stdin_open: true
+    tty: true

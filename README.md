@@ -9,7 +9,7 @@ Some of the other Issues are larger and require some deeper design or architectu
 ## Developing Locally
 
 ### Run with Docker
-Run docker compose and view the page in your browser at localhost:8011. It is required to rerun the command after making changes to see the effects.
+Run docker compose and view the page in your browser at localhost:8011. Hot reload should work (though you need to refresh the browser after file changes).
 ```
 docker compose up --build
 ```
