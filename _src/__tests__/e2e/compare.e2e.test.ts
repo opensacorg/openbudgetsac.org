@@ -19,7 +19,7 @@ describe('site e2e', () => {
 
   beforeAll(async () => {
     const args =
-      process.getuid?.() === 0
+      process.getuid?.() === 0 || process.env.CI
         ? ['--no-sandbox', '--disable-setuid-sandbox']
         : [];
 
