@@ -5,6 +5,9 @@ services:
       target: runtime
     ports:
       - '8011:8011'
+    volumes:
+      - ./_src:/app
+      - /app/node_modules
   test:
     build:
       context: .
